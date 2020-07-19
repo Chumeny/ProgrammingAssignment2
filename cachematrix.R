@@ -1,7 +1,7 @@
 ## This functions cache the inverse of a matrix to save computation time
 ## functions do
 
-## Sets the matrix 
+## Sets the values of the matrix 
 
 makeCacheMatrix <- function(x = matrix()) {
   i<-NULL
